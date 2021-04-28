@@ -1,0 +1,12 @@
+{
+    "eiQkoTt|XA=(vYDRSHgO": {
+        "data": "hwQQABAAAAAAALu7UFUFAAAAsLtbVQUAAMzNAlVVVQAAzMxSVSVVAADAzCJSUlUAAMDMJVJSVQAAAMwlVSVVAAAAzCVSVVUAAADAJSJVVQAAAMBSVVVVAAAAzFJVtVsAAADMXFW7CwAAwM3Mtbu7AADAzMywu7sAAAAAALu7uwAAAAAAu7u7AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myenemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
